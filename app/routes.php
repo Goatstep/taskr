@@ -126,4 +126,4 @@ Route::get('about-us', function()
 Route::get('contact-us', array('as' => 'contact-us', 'uses' => 'ContactUsController@getIndex'));
 Route::post('contact-us', 'ContactUsController@postIndex');
 
-Route::get('/', array('as' => 'home', 'uses' => 'BlogController@getIndex'));
+Route::get('/', array('as' => 'home', 'uses' => 'HomeController@getIndex'));

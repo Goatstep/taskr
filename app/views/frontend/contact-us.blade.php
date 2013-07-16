@@ -2,7 +2,7 @@
 
 {{-- Page title --}}
 @section('title')
-Contact us ::
+Contact Us |
 @parent
 @stop
 
