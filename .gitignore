@@ -1,0 +1,14 @@
+/app/config/database.php
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+
+.vagrant
+.vagrant.*
+app/config/app.php
+app/config/local/
+public/assets/compiled/
+public/assets/foundation/.sass-cache/
+/testResults
