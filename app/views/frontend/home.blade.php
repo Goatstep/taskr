@@ -2,13 +2,13 @@
 
 {{-- Page title --}}
 @section('title')
-About Us |
+Home |
 @parent
 @stop
 
 {{-- Page content --}}
 @section('content')
 
-About us page.
+Taskr's Homepage
 
 @stop
