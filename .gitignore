@@ -12,3 +12,4 @@ app/config/local/
 public/assets/compiled/
 public/assets/foundation/.sass-cache/
 /testResults
+.idea/
